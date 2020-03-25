@@ -36,6 +36,8 @@
 
 [HashMap、TreeMap、HashTable区别](https://blog.csdn.net/Jason847/article/details/78050358)
 
+[你想知道的HashMap](https://skyacer.github.io/2018/05/06/%E4%BD%A0%E6%83%B3%E7%9F%A5%E9%81%93%E7%9A%84HashMap/)
+
 [HashMap深度分析](http://www.jianshu.com/p/8b372f3a195d)
 
 [Java最小堆解决TopK问题](http://blog.csdn.net/xiao__gui/article/details/8687982)

@@ -84,6 +84,8 @@
 
 [Android 组件化最佳实践](https://juejin.im/post/5b5f17976fb9a04fa775658d)
 
+[Android中JSBridge的原理和实现](https://skyacer.github.io/2018/03/23/Android%E4%B8%ADJSBridge%E7%9A%84%E5%8E%9F%E7%90%86%E5%92%8C%E5%AE%9E%E7%8E%B0/)
+
 [Android Webview H5 秒开方案实现](https://juejin.im/post/5b94ca52e51d450e7d097f38)
 
 [WebView性能、体验分析与优化](https://tech.meituan.com/2017/06/09/webviewperf.html)
@@ -91,3 +93,5 @@
 [视频缓存AndroidVideoCache攻略](https://www.jianshu.com/p/53c4a6c9bd07)
 
 [Google Exoplayer之全面认识](https://blog.csdn.net/hejjunlin/article/details/54693696)
+
+[设计模式在外卖营销业务中的实践](https://tech.meituan.com/2020/03/19/design-pattern-practice-in-marketing.html)
