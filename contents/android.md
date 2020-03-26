@@ -90,6 +90,8 @@
 
 [WebView性能、体验分析与优化](https://tech.meituan.com/2017/06/09/webviewperf.html)
 
+[彻底解析Android缓存机制——LruCache](https://www.jianshu.com/p/b49a111147ee)
+
 [视频缓存AndroidVideoCache攻略](https://www.jianshu.com/p/53c4a6c9bd07)
 
 [Google Exoplayer之全面认识](https://blog.csdn.net/hejjunlin/article/details/54693696)
