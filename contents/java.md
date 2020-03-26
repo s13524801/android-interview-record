@@ -12,6 +12,8 @@
 
 [java笔记七：IO流之字节流与字节缓冲流](http://www.cnblogs.com/liuling/archive/2013/05/07/InputStreamAndOutputStream.html)
 
+[Java NIO浅析](https://tech.meituan.com/2016/11/04/nio.html)
+
 [Java内存管理：深入Java内存区域](http://www.cnblogs.com/gw811/archive/2012/10/18/2730117.html)
 
 [看完这篇垃圾回收，和面试官扯皮没问题了](https://mp.weixin.qq.com/s/8vXENzg580R7F2iNjSdHFw)
