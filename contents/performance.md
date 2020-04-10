@@ -44,4 +44,8 @@
 
 [理解Native Crash处理流程](http://gityuan.com/2016/06/25/android-native-crash/)
 
+[Probe：Android线上OOM问题定位组件](https://tech.meituan.com/2019/11/14/crash-oom-probe-practice.html)
+
+[《Android 创建线程源码与OOM分析》](https://mp.weixin.qq.com/s/Z7cCCF8jzS6NpVEd0b0Emg)
+
 [Android开发高手课](https://time.geekbang.org/column/intro/100021101)
