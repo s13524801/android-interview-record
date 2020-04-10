@@ -56,7 +56,9 @@
 
 [ELF文件格式解析](https://blog.csdn.net/feglass/article/details/51469511)
 
-[【android】动态链接库so的加载原理](https://itimetraveler.github.io/2018/07/03/%E3%80%90Android%E3%80%91%E5%8A%A8%E6%80%81%E9%93%BE%E6%8E%A5%E5%BA%93so%E7%9A%84%E5%8A%A0%E8%BD%BD%E5%8E%9F%E7%90%86/)
+[loadLibrary动态库加载过程分析](http://gityuan.com/2017/03/26/load_library/)
+
+[Android 的 so 文件加载机制](https://juejin.im/post/5bc832f1e51d450e6973c0be)
 
 [通过ApkTool分析resources.arsc文件以及resources.arsc文件的格式](https://litets.com/article/2019/4/10/307.html)
 
