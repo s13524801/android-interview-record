@@ -46,9 +46,9 @@
 
 [Binder VS socket](https://blog.csdn.net/graitude/article/details/55522626)
 
-[写给 Android 应用工程师的 Binder 原理剖析](https://juejin.im/post/5acccf845188255c3201100f)
-
 [Android跨进程通信：图文详解 Binder机制 原理](https://blog.csdn.net/carson_ho/article/details/73560642)
+
+[彻底理解Android Binder通信架构](http://gityuan.com/2016/09/04/binder-start-service/)
 
 [Android 线程和线程池一篇就够了](https://juejin.im/entry/593109e72f301e005830cd76)
 
