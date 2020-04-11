@@ -64,6 +64,8 @@
 
 [彻底理解Android Binder通信架构](http://gityuan.com/2016/09/04/binder-start-service/)
 
+[Binder异常解析](http://gityuan.com/2017/05/01/binder_exception/)
+
 [ELF文件格式解析](https://blog.csdn.net/feglass/article/details/51469511)
 
 [loadLibrary动态库加载过程分析](http://gityuan.com/2017/03/26/load_library/)
