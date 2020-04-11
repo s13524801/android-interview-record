@@ -1,5 +1,7 @@
 [Android之SharedPreferences内部原理浅析](https://blog.csdn.net/u010687392/article/details/50174271)
 
+[剖析 SharedPreference apply 引起的 ANR 问题](https://www.jianshu.com/p/9ae0f6842689)
+
 [Android源码分析-消息队列和Looper](https://blog.csdn.net/singwhatiwanna/article/details/17361775)
 
 [Android源码分析—带你认识不一样的AsyncTask](https://blog.csdn.net/singwhatiwanna/article/details/17596225)
@@ -13,6 +15,8 @@
 [Android进程间通信（IPC）机制Binder简要介绍和学习计划](http://blog.csdn.net/luoshengyang/article/details/6618363)
 
 [Activity的启动方式和flag详解](http://blog.csdn.net/singwhatiwanna/article/details/9294285)
+
+[浅析Activity横竖屏切换时的生命周期](浅析Activity横竖屏切换时的生命周期)
 
 [Android源码分析-资源加载机制](http://blog.csdn.net/singwhatiwanna/article/details/24532419)
 
