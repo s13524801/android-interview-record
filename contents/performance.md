@@ -42,7 +42,7 @@
 
 [ANR的监测与信息采集](https://www.jianshu.com/p/ac545e10e39e)
 
-[Binder异常解析](http://gityuan.com/2017/05/01/binder_exception/)
+[Android ANR 监测方案解析](https://testerhome.com/articles/17101)
 
 [Probe：Android线上OOM问题定位组件](https://tech.meituan.com/2019/11/14/crash-oom-probe-practice.html)
 
