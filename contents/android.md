@@ -6,13 +6,23 @@
 
 [Android源码分析—带你认识不一样的AsyncTask](https://blog.csdn.net/singwhatiwanna/article/details/17596225)
 
+[Android AsyncTask 源码解析](http://blog.csdn.net/lmj623565791/article/details/38614699)
+
 [Android性能优化之使用线程池处理异步任务](http://blog.csdn.net/u010687392/article/details/49850803)
+
+[Android 线程和线程池一篇就够了](https://juejin.im/entry/593109e72f301e005830cd76)
+
+[剖析Android中进程与线程调度之nice](https://droidyue.com/blog/2015/09/05/android-process-and-thread-schedule-nice/)
+
+[【线程死锁】Android多线程死锁的产生以及如何避免](https://blog.csdn.net/Tomasyb/article/details/72884562)
+
+[WatchDog工作原理](http://gityuan.com/2016/06/21/watchdog/)
+
+[《手Q Android线程死锁监控与自动化分析实践》](https://mp.weixin.qq.com/s/lRHLP76V0fr2UwkeImdqzQ?utm_source=joyk.com&utm_medium=referral&hmsr=joyk.com)
 
 [Android Context完全解析，你所不知道的Context的各种细节](http://blog.csdn.net/guolin_blog/article/details/47028975)
 
 [LocalBroadcastManager 的实现原理，与 BroadcastReceiver 异同](http://www.trinea.cn/android/localbroadcastmanager-impl/)
-
-[Android进程间通信（IPC）机制Binder简要介绍和学习计划](http://blog.csdn.net/luoshengyang/article/details/6618363)
 
 [Activity的启动方式和flag详解](http://blog.csdn.net/singwhatiwanna/article/details/9294285)
 
@@ -23,8 +33,6 @@
 [Android中Thread、Handler、Looper、MessageQueue的原理分析](http://blog.csdn.net/bboyfeiyu/article/details/38555547)
 
 [Android 源码解析 之 setContentView](http://blog.csdn.net/lmj623565791/article/details/41894125)
-
-[Android AsyncTask 源码解析](http://blog.csdn.net/lmj623565791/article/details/38614699)
 
 [Android IntentService完全解析 当Service遇到Handler](http://blog.csdn.net/lmj623565791/article/details/47143563)
 
@@ -48,15 +56,13 @@
 
 [为什么 Android 要采用 Binder 作为 IPC 机制？](https://www.zhihu.com/question/39440766)
 
+[Android进程间通信（IPC）机制Binder简要介绍和学习计划](http://blog.csdn.net/luoshengyang/article/details/6618363)
+
 [Binder VS socket](https://blog.csdn.net/graitude/article/details/55522626)
 
 [Android跨进程通信：图文详解 Binder机制 原理](https://blog.csdn.net/carson_ho/article/details/73560642)
 
 [彻底理解Android Binder通信架构](http://gityuan.com/2016/09/04/binder-start-service/)
-
-[Android 线程和线程池一篇就够了](https://juejin.im/entry/593109e72f301e005830cd76)
-
-[剖析Android中进程与线程调度之nice](https://droidyue.com/blog/2015/09/05/android-process-and-thread-schedule-nice/)
 
 [ELF文件格式解析](https://blog.csdn.net/feglass/article/details/51469511)
 
