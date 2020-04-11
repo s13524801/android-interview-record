@@ -28,14 +28,6 @@
 
 [Matrix ResourceCanary -- Activity 泄漏及Bitmap冗余检测](https://github.com/Tencent/matrix/wiki/Matrix-Android-ResourceCanary)
 
-[安装包立减1M--微信Android资源混淆打包工具](https://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=208135658&idx=1&sn=ac9bd6b4927e9e82f9fa14e396183a8f#rd)
-
-[AabResGuard: AAB 资源混淆工具](https://juejin.im/post/5e115ca7e51d4540e53b7dcc)
-
-[zstd 高质量压缩算法](https://facebook.github.io/zstd/)
-
-[AndroidJniBitmapOperations](https://github.com/AndroidDeveloperLB/AndroidJniBitmapOperations)
-
 [Android图片加载尺寸监控](https://www.jianshu.com/p/fa1c4fbf4f57)
 
 [美团外卖Android Crash治理之路](https://tech.meituan.com/2018/06/14/waimai-android-crash.html)
@@ -44,10 +36,24 @@
 
 [理解Native Crash处理流程](http://gityuan.com/2016/06/25/android-native-crash/)
 
+[彻底理解安卓应用无响应机制](http://gityuan.com/2019/04/06/android-anr/)
+
+[ANR问题分析的一般套路](https://www.jianshu.com/p/18f16aba79dd)
+
+[ANR的监测与信息采集](https://www.jianshu.com/p/ac545e10e39e)
+
 [Binder异常解析](http://gityuan.com/2017/05/01/binder_exception/)
 
 [Probe：Android线上OOM问题定位组件](https://tech.meituan.com/2019/11/14/crash-oom-probe-practice.html)
 
 [《Android 创建线程源码与OOM分析》](https://mp.weixin.qq.com/s/Z7cCCF8jzS6NpVEd0b0Emg)
+
+[安装包立减1M--微信Android资源混淆打包工具](https://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=208135658&idx=1&sn=ac9bd6b4927e9e82f9fa14e396183a8f#rd)
+
+[AabResGuard: AAB 资源混淆工具](https://juejin.im/post/5e115ca7e51d4540e53b7dcc)
+
+[zstd 高质量压缩算法](https://facebook.github.io/zstd/)
+
+[AndroidJniBitmapOperations](https://github.com/AndroidDeveloperLB/AndroidJniBitmapOperations)
 
 [Android开发高手课](https://time.geekbang.org/column/intro/100021101)
