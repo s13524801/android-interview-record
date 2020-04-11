@@ -80,6 +80,8 @@
 
 [RecyclerView源码分析](https://blog.saymagic.cn/2016/10/21/understand-recycler.html)
 
+[RecyclerView性能优化及高级使用](https://blog.csdn.net/smileiam/article/details/88396546)
+
 [android mvvm architecture-samples](https://github.com/android/architecture-samples)
 
 [ViewPager2重大更新，支持offscreenPageLimit](https://juejin.im/post/5cda3964f265da035d0c9d8f)
