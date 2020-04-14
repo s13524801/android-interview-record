@@ -86,6 +86,8 @@
 
 [android mvvm architecture-samples](https://github.com/android/architecture-samples)
 
+[Lifecycle 使用及原理解析 一文搞懂](https://juejin.im/post/5c90d955f265da60e926783d)
+
 [ViewPager2重大更新，支持offscreenPageLimit](https://juejin.im/post/5cda3964f265da035d0c9d8f)
 
 [Android View的绘制流程知识点总结](https://zhuanlan.zhihu.com/p/44976896)
