@@ -4,8 +4,6 @@
 
 [WebP原理和Android支持现状介绍](https://zhuanlan.zhihu.com/p/23648251)
 
-[WebP 技术原理及应用](https://www.jianshu.com/p/7fb720ec57cd)
-
 [浓缩的才是精华：浅析 GIF 格式图片的存储和压缩](https://cloud.tencent.com/developer/article/1004763)
 
 [高效加载大型位图](https://developer.android.com/topic/performance/graphics/load-bitmap)
